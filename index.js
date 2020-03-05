@@ -11,3 +11,4 @@ const currentMusic = {
 artistName.innerHTML = currentMusic.artist;
 musicName.innerHTML = currentMusic.title;
 musicController.src = currentMusic.filename;
+ 

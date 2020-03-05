@@ -4,4 +4,4 @@ window.audios = [
         artist: 'Jovem Dex',
         filename: '/assets/musics/jovem-dex-alcapone.mp3'
     }
-];
+]; 
